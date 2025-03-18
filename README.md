@@ -18,16 +18,16 @@ This repository is created for self-studying Data Structures.
 ## Folder Structure
 
 Data-Structure <br>
-┣ Recursion/ <br>
-┣ Linked List/ <br>
-┣ Stack/ <br>
-┣ Queue/ <br>
-┣ Tree/ <br>
-┣ Priority-Queue-and-Heap/ <br>
-┣ Sorting/ <br>
-┣ Search/ <br>
-┣ Table-and-Hash/ <br>
-┣ Graph/ <br>
+┣ 01_Recursion/ <br>
+┣ 02_Linked-List/ <br>
+┣ 03_Stack/ <br>
+┣ 04_Queue/ <br>
+┣ 05_Tree/ <br>
+┣ 06_Priority-Queue-and-Heap/ <br>
+┣ 07_Sorting/ <br>
+┣ 08_Search/ <br>
+┣ 09_Table-and-Hash/ <br>
+┣ 10_Graph/ <br>
 ┗ README.md/ <br>
 
 ## Programming Languages

@@ -35,11 +35,6 @@ Data-Structure <br>
 - C
 - C++
 
-## Goals
-
-- There is no end to the data structure
-- I'll do my best
-
 ## Reference
 
 - 윤성우의 열혈 자료구조

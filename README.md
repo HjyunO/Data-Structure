@@ -34,8 +34,3 @@ Data-Structure <br>
 
 - C
 - C++
-
-## Reference
-
-- 윤성우의 열혈 자료구조
-- https://cafe.naver.com/cstudyjava

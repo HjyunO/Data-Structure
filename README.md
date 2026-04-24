@@ -1,8 +1,4 @@
-# Data Structures Study Repository
-
-This repository is created for self-studying Data Structures.
-
-## Data Structures to Study
+## Data Structures
 
 - Recursion
 - Linked List

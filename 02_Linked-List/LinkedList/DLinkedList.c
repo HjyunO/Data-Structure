@@ -27,7 +27,7 @@ void SInsert(List *plist, LData data) {
     while(pred->next != NULL && plist->comp(data, pred->next->data) != 0) {
         pred = pred->next;
     }
-
+    
     new->next = pred->next;
     pred->next = new;
 
@@ -89,4 +89,12 @@ void SetSortRule(List *plist, int (*comp)(LData d1, LData d2)) {
     plist->comp = comp;
 }
 
-// 전체 리스트 제거(메모리 해제) 함수
+void LFree(List *plist) {
+    Node *delete = plist->head;
+    Node *now = plist->head;
+    while(now->next != NULL) {
+        now = now->next;
+        free(delete);
+        delete = now;
+    }
+}
